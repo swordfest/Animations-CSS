@@ -1,0 +1,19 @@
+{
+  "name": "animations-css",
+  "version": "1.0.0",
+  "description": "Testing some css animations and lottie files for different projects as a hobby",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swordfest/Animations-CSS.git"
+  },
+  "author": "Swordfest",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swordfest/Animations-CSS/issues"
+  },
+  "homepage": "https://github.com/swordfest/Animations-CSS#readme"
+}
