@@ -605,6 +605,10 @@ video {
   margin-right: auto;
 }
 
+.flex {
+  display: flex;
+}
+
 .h-screen {
   height: 100vh;
 }
@@ -639,6 +643,14 @@ video {
 
 .w-\[512px\] {
   width: 512px;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
 }
 
 .bg-\[\#111111\] {
